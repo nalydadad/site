@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nalydadad.github.io/site/sitemap.xml
