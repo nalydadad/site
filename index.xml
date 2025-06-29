@@ -1,1 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title/><link>https://nalydadad.github.io/site/</link><description>Recent content on</description><generator>Hugo -- 0.147.0</generator><language>en-us</language><lastBuildDate/><atom:link href="https://nalydadad.github.io/site/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title/><link>https://nalydadad.github.io/site/</link><description>Recent content on</description><generator>Hugo -- 0.147.0</generator><language>en-us</language><lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nalydadad.github.io/site/index.xml" rel="self" type="application/rss+xml"/><item><title>部落格建立的主旨</title><link>https://nalydadad.github.io/site/posts/%E5%AF%AB%E4%BD%9C%E9%A2%A8%E6%A0%BC-guideline/</link><pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate><guid>https://nalydadad.github.io/site/posts/%E5%AF%AB%E4%BD%9C%E9%A2%A8%E6%A0%BC-guideline/</guid><description>&lt;h1 id="技術部落格寫作指引">技術部落格寫作指引&lt;/h1>
+&lt;p>&lt;img loading="lazy" src="https://miro.medium.com/v2/resize:fit:1400/1*1U16V2rwHcSazWbWO_nNBw.jpeg">&lt;/p>
+&lt;h2 id="適合的主題">適合的主題&lt;/h2>
+&lt;ul>
+&lt;li>個人學習與求職歷程&lt;/li>
+&lt;li>作品介紹&lt;/li>
+&lt;li>技術觀念筆記&lt;/li>
+&lt;li>實作教學&lt;/li>
+&lt;li>演算法解題&lt;/li>
+&lt;li>資源整理與分享&lt;/li>
+&lt;li>閱讀、活動、演講心得&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="提升寫作效率的方法">提升寫作效率的方法&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>大綱規劃&lt;/strong>：先列出文章主旨與大綱，將內容拆分為段落或小節，標註重點與需查證資料，讓寫作更有方向。&lt;/li>
+&lt;li>&lt;strong>模組化內容&lt;/strong>：將文章切分為獨立小段，每段聚焦單一概念。建立可重用的範本與程式碼片段，提升產出速度。&lt;/li>
+&lt;li>&lt;strong>先易後難&lt;/strong>：先寫最熟悉、最有把握的部分，開頭與結尾可等主體完成後再補寫，讓寫作更順暢。&lt;/li>
+&lt;li>&lt;strong>整合參考資料&lt;/strong>：事先收集並整理參考連結，寫作時可直接引用，節省查找時間並確保資訊正確。&lt;/li>
+&lt;li>&lt;strong>善用工具&lt;/strong>：使用支援 Markdown 的編輯器（如 Typora）、AI 協作工具（如 Notion AI、ChatGPT）來加速排版、內容產出與校對。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="技術文章寫作最佳實踐">技術文章寫作最佳實踐&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>明確讀者與目的&lt;/strong>：界定目標讀者（如初學者、進階開發者）與文章目的，開頭清楚說明主旨與預期收穫。&lt;/li>
+&lt;li>&lt;strong>清晰簡潔&lt;/strong>：用淺顯語言解釋複雜概念，避免冗長句子，段落聚焦單一主題，必要時用條列或表格提升可讀性。&lt;/li>
+&lt;li>&lt;strong>實例與程式碼&lt;/strong>：多用範例、程式碼片段輔助說明，必要時加入流程圖、數據圖或截圖。&lt;/li>
+&lt;li>&lt;strong>合理結構&lt;/strong>：善用標題與小節分隔內容，開頭說明背景，中間分步驟講解，結尾總結重點並鼓勵互動。&lt;/li>
+&lt;li>&lt;strong>排版與圖表&lt;/strong>：避免長段落，適時插入程式碼與清單，確保圖片、字體清晰，並檢查不同裝置的閱讀體驗。&lt;/li>
+&lt;li>&lt;strong>內容準確&lt;/strong>：確保程式碼、指令、工具資訊正確且最新，發現錯誤應即時更正。&lt;/li>
+&lt;li>&lt;strong>引用來源&lt;/strong>：標註引用或參考資料，增加可信度並避免抄襲，方便讀者追溯資訊。&lt;/li>
+&lt;li>&lt;strong>誠實標題&lt;/strong>：標題應真實反映內容，避免誇大或誤導，維持專業與公信力。&lt;/li>
+&lt;li>&lt;strong>客觀一致&lt;/strong>：保持中立、專業的語氣，統一術語與風格，避免模糊詞彙，提升專業度與可讀性。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="技術部落格-ai-workflow">技術部落格 AI Workflow&lt;/h2>
+&lt;h3 id="1-主題發想與大綱規劃">1. 主題發想與大綱規劃&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>ChatGPT / Gemini / Notion AI&lt;/strong>
+&lt;ul>
+&lt;li>輸入關鍵字或主題，請 AI 協助產生文章大綱、標題建議與段落結構。&lt;/li>
+&lt;li>例：
+&lt;blockquote>
+&lt;p>幫我針對「iOS 單元測試」產生一份部落格大綱與三個吸引人的標題。&lt;/p>&lt;/blockquote>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-內容初稿撰寫">2. 內容初稿撰寫&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>ChatGPT / Notion AI&lt;/strong>
+&lt;ul>
+&lt;li>依據大綱，逐段請 AI 生成內容初稿，或將自己的想法輸入後請 AI 幫忙潤飾、補充細節。&lt;/li>
+&lt;li>例：
+&lt;blockquote>
+&lt;p>根據這個大綱，幫我寫「測試驅動開發的優點」這一段，語氣簡潔易懂。&lt;/p>&lt;/blockquote>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-程式碼與範例生成">3. 程式碼與範例生成&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>GitHub Copilot / ChatGPT&lt;/strong>
+&lt;ul>
+&lt;li>輸入需求，請 AI 產生對應的程式碼片段，並請 AI 解釋每段程式碼的用途。&lt;/li>
+&lt;li>例：
+&lt;blockquote>
+&lt;p>幫我寫一個 Swift 單元測試範例，並用註解說明每一步。&lt;/p></description></item></channel></rss>
